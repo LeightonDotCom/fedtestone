@@ -1,0 +1,18 @@
+{
+  "name": "leighton-test-1",
+  "version": "1.0.0",
+  "description": "Leighton Test 1",
+  "main": "./public/index.html",
+  "scripts": {
+    "lint": "./node_modules/gulp/bin/gulp.js"
+  },
+  "repository": "",
+  "author": "Leighton",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-csslint": "^0.2.2",
+    "gulp-htmlhint": "^0.3.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
