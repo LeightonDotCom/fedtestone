@@ -1,6 +1,5 @@
 var gulp = require("gulp"),
     webserver = require('gulp-webserver'),
-    ecstatic = require('ecstatic'),
     lint = {
         html: require("gulp-htmlhint"),
         css: require("gulp-csslint")
