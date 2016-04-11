@@ -49,11 +49,15 @@ a {
     transition: all ease-in-out .1s;
 }
 
-.main-content {
+.content {
     max-width: 1140px;
     width: auto;
     padding: 10px 0;
     margin: 0 auto;
+}
+
+.main-content {
+    margin-top: 100px;
 }
 
 h1, h2, h3 {
